@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = git@gitee.com:fredricen/flask-client.git
